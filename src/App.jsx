@@ -49,7 +49,7 @@ function App() {
             <p>SHOES.</p>
           </div>
           <div className="flex space-x-3 my-3">
-            <button className="bg-red-600 text-white px-2 py-1">
+            <button className="bg-red-600 text-white px-2 py-1 sm:text-[10px] md:text-sm">
               Shop Now
             </button>
             <button className="text-[#5A5959] border-black">Category</button>
